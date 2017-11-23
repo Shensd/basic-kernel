@@ -1,4 +1,4 @@
-sic Kernel
+# Basic Kernel
 
 "It's Your Only Option!" - Jack Hance, Creator of JackOS
 
